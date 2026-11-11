@@ -1,2 +1,2 @@
-version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
-3,iPhone 14,1793809841404,2026-11-04_16-30-41,Asia/Kolkata,ios,1.68.1,48a11a0e-fc67-465d-94ec-fa382aec79c3,Accelerometer|Gravity|Gyroscope|Orientation|Magnetometer|Barometer|Annotation|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,0|0|0|0|0|0||0|0|0,false,18.7.8
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 14,1793809841404,2026-11-04_16-30-41,Asia/Kolkata,ios,1.68.1,Accelerometer|Gravity|Gyroscope|Orientation|Magnetometer|Barometer|Annotation|MagnetometerUncalibrated|GyroscopeUncalibrated|AccelerometerUncalibrated,0|0|0|0|0|0||0|0|0,False,18.7.8
